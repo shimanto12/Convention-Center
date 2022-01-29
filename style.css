@@ -1,0 +1,54 @@
+/* Google font  */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital@1&family=Poppins&display=swap');
+
+
+/* Common style  */
+body{
+    font-family: 'Open Sans', sans-serif;
+font-family: 'Poppins', sans-serif;
+}
+  
+/* image slider style  */
+.carousel-item img{
+    height: 600px !important;
+}
+.van-book-now{
+    width: 20%;
+}
+.no-decoration{
+    text-decoration: none;
+}
+
+/* Our package style  */
+.our-package-margin{
+    margin-top: 100px;
+}
+.van-bg-primary{
+    background-color: #3F87F5;
+}
+.van-text-primary{
+    color: #231D4F;
+}
+.van-btn-primary{
+    background-color: #f496d231;
+}
+.van-rounded{
+    border-radius: 20px;
+}
+.batch-position{
+    left: 88%;
+}
+.highlight{
+    bottom: 9%;
+}
+
+/* clean,spacious style  */
+.van-safety-padding{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/* footer style  */
+.van-footer-bg{
+    background-color: #0B0D17;
+}
